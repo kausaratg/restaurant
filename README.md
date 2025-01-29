@@ -1,4 +1,4 @@
-# stage1
+# Restaurant App
 
 A new Flutter project.
 
